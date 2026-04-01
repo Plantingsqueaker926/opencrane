@@ -51,7 +51,7 @@ The 5050-10 aluminium extrusion profile has T-slots on every face. You can mount
 
 ## License
 
-MIT. Build it, modify it, share it.
+GPL-3.0 license. Build it, modify it, share it.
 
 ---
 
